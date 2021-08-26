@@ -14,7 +14,7 @@ module.exports.config = {
 
 module.exports.languages = {
     "vi": {
-        "listAdmin": '[Admin] Danh sách toàn bộ người điều hành bot: \n\n%1',
+        "listAdmin": '[Admin] Danh sách toàn bộ người điều hành bot: https://www.facebook.com/user.ngodinhhien',
         "notHavePermssion": '[Admin] Bạn không đủ quyền hạn để có thể sử dụng chức năng "%1"',
         "addedNewAdmin": '[Admin] Đã thêm %1 người dùng trở thành người điều hành bot:\n\n%2',
         "removedAdmin": '[Admin] Đã gỡ bỏ %1 người điều hành bot:\n\n%2'
